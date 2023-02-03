@@ -1,0 +1,5 @@
+tk
+simpleaudio
+wavefile
+numpy
+scipy
